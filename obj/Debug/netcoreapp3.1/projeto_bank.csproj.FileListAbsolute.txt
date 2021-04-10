@@ -1,0 +1,13 @@
+C:\workspace\dotnet\projeto_bank\obj\Debug\netcoreapp3.1\projeto_bank.csprojAssemblyReference.cache
+C:\workspace\dotnet\projeto_bank\obj\Debug\netcoreapp3.1\projeto_bank.AssemblyInfoInputs.cache
+C:\workspace\dotnet\projeto_bank\obj\Debug\netcoreapp3.1\projeto_bank.AssemblyInfo.cs
+C:\workspace\dotnet\projeto_bank\obj\Debug\netcoreapp3.1\projeto_bank.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet\projeto_bank\bin\Debug\netcoreapp3.1\projeto_bank.exe
+C:\workspace\dotnet\projeto_bank\bin\Debug\netcoreapp3.1\projeto_bank.deps.json
+C:\workspace\dotnet\projeto_bank\bin\Debug\netcoreapp3.1\projeto_bank.runtimeconfig.json
+C:\workspace\dotnet\projeto_bank\bin\Debug\netcoreapp3.1\projeto_bank.runtimeconfig.dev.json
+C:\workspace\dotnet\projeto_bank\bin\Debug\netcoreapp3.1\projeto_bank.dll
+C:\workspace\dotnet\projeto_bank\bin\Debug\netcoreapp3.1\projeto_bank.pdb
+C:\workspace\dotnet\projeto_bank\obj\Debug\netcoreapp3.1\projeto_bank.dll
+C:\workspace\dotnet\projeto_bank\obj\Debug\netcoreapp3.1\projeto_bank.pdb
+C:\workspace\dotnet\projeto_bank\obj\Debug\netcoreapp3.1\projeto_bank.genruntimeconfig.cache
